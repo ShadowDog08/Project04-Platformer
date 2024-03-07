@@ -2,7 +2,7 @@
 
 # Cool Platformer
 Project for MSCH-C220 - Date: 3/7/2024
-Description
+# Description
 * Use WASD to move and spacebar to jump.
 * Reach the flag to move on through the levels.
 * Avoid the Enemies and Collect the Coins.
