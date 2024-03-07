@@ -6,9 +6,9 @@ Context and date
 Description
 
 ## Implementation
-Added music and sound effects created by me
-Added a new jumping enemy
-Added parallax
+* Added music and sound effects created by me
+* Added a new jumping enemy
+* Added parallax
 
 ## References
 
